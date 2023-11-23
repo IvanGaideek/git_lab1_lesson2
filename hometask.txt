@@ -1,1 +1,3 @@
 Ветка master более сложная тут сделано на 2 merge больше чем в demo, к тому же больше коммитов.
+Коммиты: init, heat added, boots, README added, dots, fix readme, new change file, add information file, add fix
+information file.
